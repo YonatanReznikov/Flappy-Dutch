@@ -95,5 +95,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any inquiries, suggestions, or feedback, please contact:
 
-- **Email:** yonirz111@gmail.com
+- **Email:** Yonirz111@gmail.com
 - **GitHub:** [Yonatan Reznikov](https://github.com/YonatanReznikov)
